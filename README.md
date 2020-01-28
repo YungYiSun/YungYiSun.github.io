@@ -6,7 +6,7 @@
 <body>
 
 <h1>Hello</h1>
-<p>My first paragraph.</p>
+<p>This is a test.</p>
 
 </body>
 </html>
